@@ -1,2 +1,2 @@
 Name,Surname,Website_URL,API_Gateway_URL
-Andile,Gumede,https://main.d1m1hgorow8cwx.amplifyapp.com/:https://mdwte1c21c.execute-api.eu-west-2.amazonaws.com/myLambdaFuncANDILE
+Andile,Gumede,https://main.d1m1hgorow8cwx.amplifyapp.com/,https://mdwte1c21c.execute-api.eu-west-2.amazonaws.com/myLambdaFuncANDILE
